@@ -7,7 +7,7 @@ The project “IT Company Website” is a responsive website made using HTML, CS
 ## Website Link
 
 Go check this website!!
-https://priyansh42.github.io/IT-Company-Website/
+https://dannymay9082.github.io/company-landing/
 
 ##
 
